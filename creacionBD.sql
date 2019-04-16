@@ -1,0 +1,2 @@
+--Creacion de la BD de papeleria
+--Las tablas estan
